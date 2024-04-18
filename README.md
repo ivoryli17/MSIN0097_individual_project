@@ -6,9 +6,9 @@
 This repository contains a Jupyter notebook detailing a predictive analytics project aimed at forecasting retail sales using various statistical and machine learning techniques. The project includes exploratory data analysis, data preprocessing, feature engineering, and the implementation of multiple predictive models.
 
 ### Repository Structure
-'readme.md': This file, providing an overview and setup instructions.
-'project_notebook.ipynb': Jupyter notebook containing all the analyses and model implementations.
-'requirements.txt': List of Python packages required to run the notebook.
+- 'readme.md': This file, providing an overview and setup instructions.
+- 'project_notebook.ipynb': Jupyter notebook containing all the analyses and model implementations.
+- 'requirements.txt': List of Python packages required to run the notebook.
 
 ### Notebook Content
 - Exploratory data analysis to understand trends and patterns in sales data.
