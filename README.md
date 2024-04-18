@@ -20,3 +20,10 @@ The datasets used in this project are available to download from Kaggle: https:/
 - Implementation of baseline and advanced models including Naive Forecast, Linear Regression, Random Forest, LightGBM, and Feedforward Neural Network.
 - Evaluation of models using identified performance metric to ensure accuracy and reliability of forecasts.
 - References of sources used throughout the development of this project.
+
+### Setup
+1. Clone this repository to your local machine using: `git clone <repository-url>`
+2. Install the necessary Python packages: `pip install -r requirements.txt`
+3. Open the notebook in Jupyter Lab or Jupyter Notebook: `jupyter lab project_notebook.ipynb` or `jupyter notebook project_notebook.ipynb`
+4. Download and store datasets in a folder named m5_forcasting_data in the same location as the notebook.
+5. Run the notebook.
