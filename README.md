@@ -10,6 +10,9 @@ This repository contains a Jupyter notebook detailing a predictive analytics pro
 - `project_notebook.ipynb`: Jupyter notebook containing all the analyses and model implementations.
 - `requirements.txt`: List of Python packages required to run the notebook.
 
+### Dataset
+The datasets used in this project are available to download from Kaggle: https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+
 ### Notebook Content
 - Exploratory data analysis to understand trends and patterns in sales data.
 - Data cleaning and preprocessing for robust model training.
